@@ -1,8 +1,8 @@
 
 ### Hi there 👋, I'm Jasper!
-💬 I am a software engineer specializing in frontend and backend web development.
+I am a software engineer specializing in frontend and backend web development
 
-🤡️  (*Nah just kidding, I'm really a **stackoverflow** and **quora** professional, **discord** and **gitter** ask for help club president and a **google** everything champion!*)
+(*Nah just kidding, I'm really a **stackoverflow** and **quora** professional, **discord** and **gitter** ask for help club president and a **google** everything champion!*)
 
 **Frontend**
 HTML, Vanilla CSS, Tailwindcss, Javascript, ReactJS
@@ -19,5 +19,5 @@ Redux, React Query, Framer Motion
 **Personal Website**
 [jasjamjos.dev](https://jasjamjos.dev/)
 
-**Github Stats**
+#### Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jasjamjos&show_icons=true)
