@@ -21,3 +21,7 @@ Redux, React Query, Framer Motion
 
 #### Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jasjamjos&show_icons=true)
+
+
+#### May the code god bless us
+![](https://i.imgur.com/OOpRj.gif)
