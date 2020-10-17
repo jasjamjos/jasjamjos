@@ -5,13 +5,13 @@ I am a software engineer specializing in frontend and backend web development
 (*Nah just kidding, I'm really a **stackoverflow** and **quora** professional, **discord** and **gitter** ask for help club president and a **google** everything champion!*)
 
 **Frontend**
-HTML, Vanilla CSS, Tailwindcss, Javascript, ReactJS
+HTML, Vanilla CSS, Tailwindcss, Javascript, ReactJS, NextJS
 
 **Backend**
-Laravel, Django
+Laravel, NodeJS, Express
 
 **Extras**
-Redux, React Query, Framer Motion
+Typescript, Redux, React Query, Framer Motion
 
 **Social Media**
 [facebook](https://www.facebook.com/jasjamjos/), [twitter](https://twitter.com/@jasjamjos/), [instagram](https://www.instagram.com/jasjamjos/)
