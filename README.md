@@ -17,7 +17,7 @@ Typescript, Redux, React Query, Framer Motion
 [facebook](https://www.facebook.com/jasjamjos/), [twitter](https://twitter.com/@jasjamjos/), [instagram](https://www.instagram.com/jasjamjos/)
 
 **Personal Website**
-[jasjamjos.dev](https://jasjamjos.dev/)
+[jasjamjos.dev (WIP)](https://jasjamjos.dev/)
 
 #### Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jasjamjos&show_icons=true)
