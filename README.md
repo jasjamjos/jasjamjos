@@ -2,13 +2,11 @@
 ### Hi there 👋, I'm Jasper!
 I am a software engineer specializing in frontend and backend web development
 
-(*Nah just kidding, I'm really a **stackoverflow** and **quora** professional, **discord** and **gitter** ask for help club president and a **google** everything champion!*)
-
 **Frontend**
-HTML, Vanilla CSS, Tailwindcss, Javascript, ReactJS, NextJS
+HTML, CSS, Tailwindcss, Javascript, ReactJS, NextJS
 
 **Backend**
-Laravel, NodeJS, Express
+NodeJS, Express
 
 **Extras**
 Typescript, Redux, React Query, Framer Motion
