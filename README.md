@@ -12,7 +12,7 @@ NodeJS, Express
 Typescript, Redux, React Query, Framer Motion
 
 **Social Media**
-[facebook](https://www.facebook.com/jasjamjos/), [twitter](https://twitter.com/@jasjamjos/), [instagram](https://www.instagram.com/jasjamjos/)
+[LinkedIn](https://www.linkedin.com/in/jasjamjos/), [twitter](https://twitter.com/@jasjamjos/)
 
 **Personal Website**
 [jasjamjos.dev (WIP)](https://jasjamjos.dev/)
